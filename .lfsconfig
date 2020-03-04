@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = http://localhost:5000/datopian/mydataset2
